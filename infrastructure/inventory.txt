@@ -1,0 +1,1 @@
+My DevOps Project is growing! App version: 1.0
